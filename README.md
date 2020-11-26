@@ -1,2 +1,2 @@
 # projectorreel
-Visitors to the museum can choose which background to be projected on a house
+Visitors to the museum can choose which background to be projected on a scaled down house
